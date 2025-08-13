@@ -1,3 +1,5 @@
 # Table of contents
 
-* [Page](README.md)
+## What To Know
+
+* [What is CritOS?](README.md)
